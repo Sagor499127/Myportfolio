@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>React | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/tags/react/</link>
+      <atom:link href="http://localhost:1313/tags/react/index.xml" rel="self" type="application/rss+xml" />
+    <description>React</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 17 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>React</title>
+      <link>http://localhost:1313/tags/react/</link>
+    </image>
+    
+    <item>
+      <title>E-commerce Website</title>
+      <link>http://localhost:1313/project/pandas/</link>
+      <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/pandas/</guid>
+      <description>&lt;p&gt;A fully functional e-commerce website built with modern web technologies, including React for the frontend, Node.js for the backend, and MongoDB for data storage. This project demonstrates the ability to build a dynamic, user-friendly platform where users can browse, search, and purchase products.&lt;/p&gt;
+&lt;p&gt;This project includes key features like:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Product listings and search functionality&lt;/li&gt;
+&lt;li&gt;User authentication (login/signup)&lt;/li&gt;
+&lt;li&gt;Cart and checkout system&lt;/li&gt;
+&lt;li&gt;Admin dashboard for product management&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;By completing this project, I gained hands-on experience in full-stack development and built an intuitive e-commerce platform.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Portfolio Website</title>
+      <link>http://localhost:1313/project/pytorch/</link>
+      <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/pytorch/</guid>
+      <description>&lt;p&gt;A personal portfolio website showcasing my web development skills and projects. Built using HTML, CSS, and JavaScript, with React to enhance interactivity. This project demonstrates my ability to create responsive, well-designed web pages that highlight my work and accomplishments.&lt;/p&gt;
+&lt;p&gt;Key features of the portfolio include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A homepage with an introduction and overview of skills&lt;/li&gt;
+&lt;li&gt;A project section showcasing various web development projects&lt;/li&gt;
+&lt;li&gt;Contact form for direct communication&lt;/li&gt;
+&lt;li&gt;Responsive design for mobile and desktop devices&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;By completing this project, I improved my front-end development skills and demonstrated my ability to build visually appealing and functional websites.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

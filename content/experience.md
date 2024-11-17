@@ -1,35 +1,45 @@
 ---
-title: 'Experience'
-date: 2023-10-24
-type: landing
-
-design:
-  spacing: '5rem'
-
-# Note: `username` refers to the user's folder name in `content/authors/`
-
-# Page sections
-sections:
-  - block: resume-experience
-    content:
-      username: admin
-    design:
-      # Hugo date format
-      date_format: 'January 2006'
-      # Education or Experience section first?
-      is_education_first: false
-  - block: resume-skills
-    content:
-      title: Skills & Hobbies
-      username: admin
-    design:
-      show_skill_percentage: false
-  - block: resume-awards
-    content:
-      title: Awards
-      username: admin
-  - block: resume-languages
-    content:
-      title: Languages
-      username: admin
+title: CV
+url: "experience/"
 ---
+
+<div style="display: flex; align-items: center;">
+  <img src="/avatar.jpeg" alt="Sagor Purkayastha" style="width: 200px; height: auto; margin-right: 20px;">
+  <div>
+    <h1>Sagor Purkayastha</h1>
+    <p><em>Web Developer</em></p>
+    <p>Studies at the Department of Computer Science & Engineering, Jahangirnagar University</p>
+  </div>
+</div>
+
+## Summary
+A tech-savvy individual with a strong foundation in programming, software development, web development, and graphics design. Proficient in Python, IoT development, and web design. Passionate about leveraging technology to create innovative solutions and enhance user experiences.
+
+---
+
+## Skills
+- **Technical Skills**: Programming (C/C++, Python), IoT Development, Robotics, Embedded Systems, PCB Design  
+- **Tools & Platforms**: Arduino IDE, Raspberry Pi, ESP32, Git, Linux  
+- **Soft Skills**: Problem-solving, Team Collaboration, Communication  
+
+---
+
+## Education
+### Bachelor of Science in Computer Science and Engineering  
+Jahangirnagar University, Savar, Dhaka  
+05/2022 – 05/2026  
+- Relevant Coursework: Microcontrollers, Embedded Systems, Mechatronics  
+
+---
+
+## Certifications
+- Certified IoT Developer, Edge Skill, 2024  
+- Graphics and Motion Graphics, Shikhbe Shobai, 2022  
+
+---
+
+## Volunteer Experience
+### NCPC 2023  
+Jahangirnagar University, Savar  
+03/2024  
+- Organized kit team  
