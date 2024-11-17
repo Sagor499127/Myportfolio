@@ -4,7 +4,7 @@ url: "experience/"
 ---
 
 <div style="display: flex; align-items: center;">
-  <img src="/avatar.jpeg" alt="Sagor Purkayastha" style="width: 200px; height: auto; margin-right: 20px;">
+  <img src="avatar.jpeg" alt="Sagor Purkayastha" style="width: 200px; height: auto; margin-right: 20px;">
   <div>
     <h1>Sagor Purkayastha</h1>
     <p><em>Web Developer</em></p>
