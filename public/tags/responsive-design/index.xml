@@ -13,6 +13,22 @@
     </image>
     
     <item>
+      <title>Documentation Page</title>
+      <link>http://localhost:1313/project/documntation/</link>
+      <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/documntation/</guid>
+      <description>&lt;p&gt;A clean and structured documentation page created as part of my FreeCodeCamp Responsive Web Design Certification. This project demonstrates an understanding of semantic HTML and CSS to build an accessible and responsive web page that organizes information efficiently.&lt;/p&gt;
+&lt;p&gt;This project includes key features like:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A navigation menu linking to different sections of the page&lt;/li&gt;
+&lt;li&gt;Responsive design for a seamless experience on all devices&lt;/li&gt;
+&lt;li&gt;Semantic HTML to enhance accessibility&lt;/li&gt;
+&lt;li&gt;Organized content layout for better readability&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;By completing this project, I honed my skills in HTML and CSS, creating a professional and user-friendly documentation page.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Survey Form</title>
       <link>http://localhost:1313/project/survey/</link>
       <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>

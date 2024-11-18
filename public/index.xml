@@ -415,7 +415,7 @@ data.head()
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/experience/</guid>
       <description>&lt;div style=&#34;display: flex; align-items: center;&#34;&gt;
-  &lt;img src=&#34;http://localhost:1313/images/avatar.jpeg&#34; alt=&#34;Sagor Purkayastha&#34; style=&#34;width: 200px; height: auto; margin-right: 20px;&#34;&gt;
+  &lt;img src=&#34;https://raw.githubusercontent.com/Sagor499127/web-image/refs/heads/main/sagor.jpeg&#34; alt=&#34;Sagor Purkayastha&#34; style=&#34;width: 200px; height: auto; margin-right: 20px;&#34;&gt;
   &lt;div&gt;
     &lt;h1&gt;Sagor Purkayastha&lt;/h1&gt;
     &lt;p&gt;&lt;em&gt;Web Developer&lt;/em&gt;&lt;/p&gt;
