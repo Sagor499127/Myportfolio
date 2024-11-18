@@ -26,7 +26,7 @@ A tech-savvy individual with a strong foundation in programming, software develo
 
 ## Education
 #### Bachelor of Science in Computer Science and Engineering  
-Jahangirnagar University, Savar, Dhaka  
+Jahangirnagar University,Savar,Dhaka  
 05/2022 – 05/2026  
 - Relevant Coursework: Microcontrollers, Embedded Systems, Mechatronics  
 
