@@ -11,7 +11,7 @@ last_name: Purkayastha
 
 # Status emoji
 status:
-  icon: 
+  icon: 👨‍💻
 
 # Is this the primary user of the site?
 superuser: true
@@ -32,6 +32,7 @@ profiles:
   - icon: at-symbol
     url: 'mailto:sagorpka243@gmail.com'
     label: E-mail Me
+  
   - icon: brands/github
     url: https://github.com/Sagor499127
   - icon: brands/linkedin
@@ -44,7 +45,7 @@ interests:
 
 education:
   - area: BSc in Computer Science
-    institution: Jahangirnagar University,Savar,Dhaka
+    institution: Jahangirnagar University
     date_start: 2015-01-01
     date_end: 2019-12-31
     summary: |
