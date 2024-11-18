@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Frontend | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/tags/frontend/</link>
+      <atom:link href="http://localhost:1313/tags/frontend/index.xml" rel="self" type="application/rss+xml" />
+    <description>Frontend</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 17 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Frontend</title>
+      <link>http://localhost:1313/tags/frontend/</link>
+    </image>
+    
+    <item>
+      <title>Tribute Page</title>
+      <link>http://localhost:1313/project/tribute/</link>
+      <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/tribute/</guid>
+      <description>&lt;p&gt;A responsive tribute page created using HTML and CSS, showcasing a biography and achievements of a notable individual. This project was developed as part of my FreeCodeCamp certification program to demonstrate fundamental web development skills.&lt;/p&gt;
+&lt;p&gt;This project includes key features like:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Well-structured and semantic HTML&lt;/li&gt;
+&lt;li&gt;A visually appealing design using CSS&lt;/li&gt;
+&lt;li&gt;Fully responsive layout for different screen sizes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;By completing this project, I gained hands-on experience in crafting basic yet effective web pages and adhering to modern web development practices.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

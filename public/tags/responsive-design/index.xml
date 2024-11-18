@@ -14,17 +14,33 @@
     
     <item>
       <title>Survey Form</title>
-      <link>http://localhost:1313/project/pytorch/</link>
+      <link>http://localhost:1313/project/survey/</link>
       <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/pytorch/</guid>
-      <description>&lt;p&gt;A responsive survey form built with HTML and CSS that collects user feedback in a structured format. This project demonstrates the creation of forms, form validation, and responsive design techniques.&lt;/p&gt;
-&lt;p&gt;Key features include:&lt;/p&gt;
+      <guid>http://localhost:1313/project/survey/</guid>
+      <description>&lt;p&gt;A responsive and accessible survey form created as part of my FreeCodeCamp certification projects. This project demonstrates the ability to design user-friendly forms with proper validation and responsiveness.&lt;/p&gt;
+&lt;h3 id=&#34;key-features&#34;&gt;Key Features:&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Multiple input types: text, radio buttons, checkboxes, and dropdowns&lt;/li&gt;
-&lt;li&gt;User-friendly layout with clear call-to-action buttons&lt;/li&gt;
-&lt;li&gt;Form validation to ensure proper data submission&lt;/li&gt;
+&lt;li&gt;Intuitive form layout with labeled fields&lt;/li&gt;
+&lt;li&gt;Responsive design for various screen sizes&lt;/li&gt;
+&lt;li&gt;Validation for required inputs&lt;/li&gt;
+&lt;li&gt;Minimal and clean styling&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;This project helped me practice frontend web development skills while ensuring a seamless user experience on both desktop and mobile devices.&lt;/p&gt;</description>
+&lt;p&gt;Through this project, I enhanced my understanding of HTML and CSS fundamentals, focusing on structuring web forms and achieving cross-device compatibility.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Tribute Page</title>
+      <link>http://localhost:1313/project/tribute/</link>
+      <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/tribute/</guid>
+      <description>&lt;p&gt;A responsive tribute page created using HTML and CSS, showcasing a biography and achievements of a notable individual. This project was developed as part of my FreeCodeCamp certification program to demonstrate fundamental web development skills.&lt;/p&gt;
+&lt;p&gt;This project includes key features like:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Well-structured and semantic HTML&lt;/li&gt;
+&lt;li&gt;A visually appealing design using CSS&lt;/li&gt;
+&lt;li&gt;Fully responsive layout for different screen sizes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;By completing this project, I gained hands-on experience in crafting basic yet effective web pages and adhering to modern web development practices.&lt;/p&gt;</description>
     </item>
     
   </channel>

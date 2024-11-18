@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Front-End | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/tags/front-end/</link>
+      <atom:link href="http://localhost:1313/tags/front-end/index.xml" rel="self" type="application/rss+xml" />
+    <description>Front-End</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 17 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Front-End</title>
+      <link>http://localhost:1313/tags/front-end/</link>
+    </image>
+    
+    <item>
+      <title>Survey Form</title>
+      <link>http://localhost:1313/project/survey/</link>
+      <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/survey/</guid>
+      <description>&lt;p&gt;A responsive and accessible survey form created as part of my FreeCodeCamp certification projects. This project demonstrates the ability to design user-friendly forms with proper validation and responsiveness.&lt;/p&gt;
+&lt;h3 id=&#34;key-features&#34;&gt;Key Features:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Intuitive form layout with labeled fields&lt;/li&gt;
+&lt;li&gt;Responsive design for various screen sizes&lt;/li&gt;
+&lt;li&gt;Validation for required inputs&lt;/li&gt;
+&lt;li&gt;Minimal and clean styling&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Through this project, I enhanced my understanding of HTML and CSS fundamentals, focusing on structuring web forms and achieving cross-device compatibility.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
