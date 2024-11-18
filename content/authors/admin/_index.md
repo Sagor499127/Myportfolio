@@ -30,12 +30,10 @@ organizations:
 # Social network links
 profiles:
   - icon: at-symbol
-    url: 'mailto:sagor@example.com'
+    url: 'mailto:sagorpka243@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/SagorP
   - icon: brands/github
-    url: https://github.com/sagorpurkayastha
+    url: https://github.com/Sagor499127
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/sagorpurkayastha
 
