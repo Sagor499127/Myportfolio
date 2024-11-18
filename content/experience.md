@@ -1,12 +1,12 @@
 ---
-title: CV
+title: Curriculum vitae
 url: "experience/"
 ---
 
 <div style="display: flex; align-items: center;">
   <img src="https://raw.githubusercontent.com/Sagor499127/web-image/refs/heads/main/sagor.jpeg" alt="Sagor Purkayastha" style="width: 200px; height: auto; margin-right: 20px;">
   <div>
-    <h1>Sagor Purkayastha</h1>
+    <h3>Sagor Purkayastha</h3>
     <p><em>Web Developer</em></p>
     <p>Studies at the Department of Computer Science & Engineering, Jahangirnagar University</p>
   </div>
@@ -25,7 +25,7 @@ A tech-savvy individual with a strong foundation in programming, software develo
 ---
 
 ## Education
-### Bachelor of Science in Computer Science and Engineering  
+#### Bachelor of Science in Computer Science and Engineering  
 Jahangirnagar University, Savar, Dhaka  
 05/2022 – 05/2026  
 - Relevant Coursework: Microcontrollers, Embedded Systems, Mechatronics  
@@ -39,7 +39,7 @@ Jahangirnagar University, Savar, Dhaka
 ---
 
 ## Volunteer Experience
-### NCPC 2023  
+#### NCPC 2023  
 Jahangirnagar University, Savar  
 03/2024  
 - Organized kit team  

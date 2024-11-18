@@ -11,7 +11,7 @@ last_name: Purkayastha
 
 # Status emoji
 status:
-  icon: 👨‍💻
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -44,7 +44,7 @@ interests:
 
 education:
   - area: BSc in Computer Science
-    institution: University of Dhaka
+    institution: Jahangirnagar University,Savar,Dhaka
     date_start: 2015-01-01
     date_end: 2019-12-31
     summary: |

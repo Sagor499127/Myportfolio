@@ -410,14 +410,14 @@ data.head()
     </item>
     
     <item>
-      <title>CV</title>
+      <title>Curriculugitm vitae</title>
       <link>http://localhost:1313/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/experience/</guid>
       <description>&lt;div style=&#34;display: flex; align-items: center;&#34;&gt;
   &lt;img src=&#34;https://raw.githubusercontent.com/Sagor499127/web-image/refs/heads/main/sagor.jpeg&#34; alt=&#34;Sagor Purkayastha&#34; style=&#34;width: 200px; height: auto; margin-right: 20px;&#34;&gt;
   &lt;div&gt;
-    &lt;h1&gt;Sagor Purkayastha&lt;/h1&gt;
+    &lt;h3&gt;Sagor Purkayastha&lt;/h3&gt;
     &lt;p&gt;&lt;em&gt;Web Developer&lt;/em&gt;&lt;/p&gt;
     &lt;p&gt;Studies at the Department of Computer Science &amp; Engineering, Jahangirnagar University&lt;/p&gt;
   &lt;/div&gt;
@@ -433,7 +433,7 @@ data.head()
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
-&lt;h3 id=&#34;bachelor-of-science-in-computer-science-and-engineering&#34;&gt;Bachelor of Science in Computer Science and Engineering&lt;/h3&gt;
+&lt;h4 id=&#34;bachelor-of-science-in-computer-science-and-engineering&#34;&gt;Bachelor of Science in Computer Science and Engineering&lt;/h4&gt;
 &lt;p&gt;Jahangirnagar University, Savar, Dhaka&lt;br&gt;
 05/2022 – 05/2026&lt;/p&gt;
 &lt;ul&gt;
@@ -447,7 +447,7 @@ data.head()
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;volunteer-experience&#34;&gt;Volunteer Experience&lt;/h2&gt;
-&lt;h3 id=&#34;ncpc-2023&#34;&gt;NCPC 2023&lt;/h3&gt;
+&lt;h4 id=&#34;ncpc-2023&#34;&gt;NCPC 2023&lt;/h4&gt;
 &lt;p&gt;Jahangirnagar University, Savar&lt;br&gt;
 03/2024&lt;/p&gt;
 &lt;ul&gt;
